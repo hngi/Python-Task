@@ -1,2 +1,2 @@
 # Python-Task
-Python script task$
+Python script task
